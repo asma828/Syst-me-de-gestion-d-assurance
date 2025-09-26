@@ -1,4 +1,7 @@
 package enums;
 
-public class TypeSinistre {
+public enum TypeSinistre {
+    ACCIDENT_VOITURE,
+    ACCIDENT_MAISON,
+    MALADIE
 }
