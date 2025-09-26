@@ -1,4 +1,7 @@
 package enums;
 
-public class TypeContrat {
+public enum TypeContrat {
+    AUTOMOBILE,
+    MAISON,
+    MALADIE
 }
